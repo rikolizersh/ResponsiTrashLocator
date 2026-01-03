@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pilelocator2000</string>
+    <string-array name="trash_types">
+        <item>General Waste</item>
+        <item>Recyclable</item>
+        <item>Hazardous</item>
+        <item>Organic</item>
+    </string-array>
+
+    <string name="gps_accuracy_not_available">GPS Accuracy: Not available</string>
+    <string name="welcome_guest">Welcome, Guest</string>
+    <string name="welcome_user">Welcome, %1$s</string>
+    <string name="location_permission_not_granted">Location permission not granted</string>
+    <string name="gps_accuracy_m">GPS Accuracy: %1$.1fm</string>
+</resources>
